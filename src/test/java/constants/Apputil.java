@@ -22,4 +22,11 @@ public class Apputil {
 	{
 		driver.close();
 	}
+	public  static void add()
+	{
+		int a=19,b=25,c;
+		c=a+b;
+		System.out.println(c);
+		
+	}
 }
